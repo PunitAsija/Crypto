@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Crypto/static/css/main.c881260a.css",
+    "main.js": "/Crypto/static/js/main.2f95cdfb.js",
+    "static/js/453.7a950a8d.chunk.js": "/Crypto/static/js/453.7a950a8d.chunk.js",
+    "static/media/iphone.png": "/Crypto/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/Crypto/static/media/gradient.12a666ed10b3b442b534.png",
+    "static/media/logo.svg": "/Crypto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Crypto/index.html",
+    "main.c881260a.css.map": "/Crypto/static/css/main.c881260a.css.map",
+    "main.2f95cdfb.js.map": "/Crypto/static/js/main.2f95cdfb.js.map",
+    "453.7a950a8d.chunk.js.map": "/Crypto/static/js/453.7a950a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c881260a.css",
+    "static/js/main.2f95cdfb.js"
+  ]
+}
